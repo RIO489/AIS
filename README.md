@@ -1,1 +1,1 @@
-Oleksandr Hamaiunov IT-31 Integration of information system LPNU
+Oleksandr Hamaiunov IT-31 Administration of Information system  LPNU
